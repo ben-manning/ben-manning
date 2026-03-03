@@ -16,7 +16,7 @@ Outside of work, I enjoy playing drums, listening to music, and bowling. Most of
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,mongodb,postgres,react,django,flask,ruby,rails)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,mongodb,postgres,react,nodejs,express,django,flask,ruby,rails)](https://skillicons.dev)
 
 </div>
 
@@ -24,7 +24,6 @@ Outside of work, I enjoy playing drums, listening to music, and bowling. Most of
 
 <div align="center">
 
-<a href="https://www.manningdev.com"><img src="assets/images/animated-ben.jpg" width="48" height="48" style="border-radius: 10px;" alt="Website" /></a>
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ben-manning-dev/)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:ben@manningdev.com)
 
