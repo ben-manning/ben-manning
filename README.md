@@ -1,4 +1,8 @@
+<div align="center">
+
 ![Ben Manning](assets/images/ben.jpg)
+
+</div>
 
 ## Hi there 👋
 
