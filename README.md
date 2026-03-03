@@ -20,6 +20,16 @@ Outside of work, I enjoy playing drums, listening to music, and bowling. Most of
 
 </div>
 
+## 🌐 Where You Can Find Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-manningdev.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.manningdev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ben--manning--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-manning-dev/)
+[![Email](https://img.shields.io/badge/Email-ben@manningdev.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ben@manningdev.com)
+
+</div>
+
 <!--
 **ben-manning/ben-manning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
