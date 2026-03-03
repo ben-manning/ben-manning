@@ -24,7 +24,7 @@ Outside of work, I enjoy playing drums, listening to music, and bowling. Most of
 
 <div align="center">
 
-[![Website](assets/images/animated-ben.jpg)](https://www.manningdev.com)
+<a href="https://www.manningdev.com"><img src="assets/images/animated-ben.jpg" width="48" height="48" style="border-radius: 10px;" alt="Website" /></a>
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ben-manning-dev/)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:ben@manningdev.com)
 
