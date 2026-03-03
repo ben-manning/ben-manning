@@ -2,8 +2,6 @@
 
 ## Hi there 👋
 
-## About
-
 With over 10 years of experience in web development, I've learned how to build websites that are both visually appealing and highly functional. I thrive on crafting digital experiences that make an impact, from streamlined user interfaces to responsive designs that work seamlessly on any device.
 
 I also bring extensive instructional experience, having spent years mentoring developers and teaching web technologies. Whether leading workshops or guiding students one-on-one, I excel at breaking down complex topics and making learning engaging and accessible.
