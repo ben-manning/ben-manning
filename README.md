@@ -12,6 +12,14 @@ I also bring extensive instructional experience, having spent years mentoring de
 
 Outside of work, I enjoy playing drums, listening to music, and bowling. Most of all, I cherish time spent with my partner and our two dogs, Lucy and Harvey, whether we're out exploring or just relaxing at home.
 
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,mongodb,postgres,react,django,flask,ruby,rails)](https://skillicons.dev)
+
+</div>
+
 <!--
 **ben-manning/ben-manning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
