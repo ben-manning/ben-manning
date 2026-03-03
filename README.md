@@ -20,15 +20,6 @@ Outside of work, I enjoy playing drums, listening to music, and bowling. Most of
 
 </div>
 
-## 🌐 Where You Can Find Me
-
-<div align="center">
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ben-manning-dev/)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:ben@manningdev.com)
-
-</div>
-
 <!--
 **ben-manning/ben-manning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
